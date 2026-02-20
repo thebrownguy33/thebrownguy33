@@ -56,4 +56,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOC Automation Project
 
 - ## My Resume
-
+<a href="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/IBRAHIM_YUSUF-RESUME.docx">
+  <img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=microsoftword&logoColor=white" />
+</a>
