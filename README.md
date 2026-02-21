@@ -2,11 +2,11 @@
 # Hello, I'm Ibrahim
 <a href="https://linkedin.com/in/ibrahimyusufnscc"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cyber security graduate with a profound interest in technology and a dedication to solving complex problems.
+Cybersecurity-focused IT professional with hands-on experience in network monitoring, incident response, system hardening, and cloud security. Strong foundation in security tools, risk assessment, and infrastructure protection.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seeking an entry-level IT or cybersecurity position where I can contribute strong analytical and troubleshooting skills while continuing to develop expertise in security operations and infrastructure management.
 
 ## Skills
 
@@ -21,11 +21,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-### Network
+### Networking Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metaspliot-777BB4?&style=for-the-badge&logo=Metaspliot&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco Packet Tracer-777BB4?&style=for-the-badge&logo=Cisco Package Tracer&logoColor=white" />
 </div>
 
 ### Endpoint
