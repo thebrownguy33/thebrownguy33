@@ -26,7 +26,7 @@ Seeking an entry-level IT or cybersecurity position where I can contribute stron
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metaspliot-777BB4?&style=for-the-badge&logo=Metaspliot&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco-Packet-Tracer-777BB4?&style=for-the-badge&logo=Cisco-Package-Tracer&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CiscoPacketTracer-777BB4?&style=for-the-badge&logo=CiscoPackageTracer&logoColor=white" />
 </div>
 
 ### Endpoint
