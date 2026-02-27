@@ -14,9 +14,6 @@ Seeking an entry-level IT or cybersecurity position where I can contribute stron
 |-----------------------------------------------|----------------------------|
 | Incident Response Planning and Execution         | <a href="https://google.com">Segmentation Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">PenTest Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
