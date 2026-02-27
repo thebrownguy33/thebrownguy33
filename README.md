@@ -12,10 +12,9 @@ Seeking an entry-level IT or cybersecurity position where I can contribute stron
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Incident Response Planning and Execution         | <a href="https://google.com">Segmentation Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">PenTest Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -53,8 +52,8 @@ Seeking an entry-level IT or cybersecurity position where I can contribute stron
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Segmentation Lab
+- PenTest Website Tools Project
 
 - ## My Resume
 
