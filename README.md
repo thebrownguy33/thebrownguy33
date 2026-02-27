@@ -13,7 +13,7 @@ Seeking an entry-level IT or cybersecurity position where I can contribute stron
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Incident Response Planning and Execution         | <a href="https://github.com/thebrownguy33/Segmentation-Lab/tree/main">Segmentation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">PenTest Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">PenTest Website Tools Project</a>|
 
 ## Tools
 
