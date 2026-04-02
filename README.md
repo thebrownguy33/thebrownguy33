@@ -13,7 +13,7 @@ Seeking an entry-level IT or cybersecurity position where I can contribute stron
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Incident Response Planning and Execution         | <a href="https://github.com/thebrownguy33/Segmentation-Lab/tree/main">Segmentation Lab</a>|
-| PenTest Website Tools and Execution  | <a href="https://github.com/thebrownguy33/Traceroute-DNS-Project/tree/main">Traceroute DNS Project</a>|
+| Traceroute DNS Steering, TTL proof with wireshark  | <a href="https://github.com/thebrownguy33/Traceroute-Project/tree/main">Traceroute Project</a>|
 
 ## Tools
 
@@ -50,7 +50,7 @@ Seeking an entry-level IT or cybersecurity position where I can contribute stron
 
 ## Projects
 - <a href="https://github.com/thebrownguy33/Segmentation-Lab/tree/main">Segmentation Lab</a>
-- <a href="https://github.com/thebrownguy33/PenTest-Website-Tools-Project/tree/main">Traceroute DNS Project</a>
+- <a href="https://github.com/thebrownguy33/PenTest-Website-Tools-Project/tree/main">Traceroute Project</a>
 
 - ## My Resume
 
