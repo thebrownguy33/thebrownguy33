@@ -52,7 +52,7 @@ Seeking an entry-level IT or cybersecurity position where I can contribute stron
 ## Projects
 - <a href="https://github.com/thebrownguy33/Segmentation-Lab/tree/main">Segmentation Lab</a>
 - <a href="https://github.com/thebrownguy33/PenTest-Website-Tools-Project/tree/main">Traceroute Project</a>
-<a href="https://github.com/thebrownguy33/SSH Lab/tree/main">Traceroute Project</a>
+- <a href="https://github.com/thebrownguy33/SSH-Lab/tree/main">Traceroute Project</a>
 
 - ## My Resume
 
