@@ -15,6 +15,7 @@ Seeking an entry-level IT or cybersecurity position where I can contribute stron
 | Incident Response Planning and Execution         | <a href="https://github.com/thebrownguy33/Segmentation-Lab/tree/main">Segmentation Lab</a>|
 | Traceroute DNS Steering, TTL proof with wireshark  | <a href="https://github.com/thebrownguy33/Traceroute-Project/tree/main">Traceroute Project</a>|
 | Exploring SSH        | <a href="https://github.com/thebrownguy33/SSH-Lab/tree/main">SSH Lab</a>|
+| PenTest Technical Report      | <a href="https://github.com/thebrownguy33/PenTest-Technical-Report/tree/main">PenTest Technical Report</a>|
 
 ## Tools
 
@@ -53,7 +54,7 @@ Seeking an entry-level IT or cybersecurity position where I can contribute stron
 - <a href="https://github.com/thebrownguy33/Segmentation-Lab/tree/main">Segmentation Lab</a>
 - <a href="https://github.com/thebrownguy33/PenTest-Website-Tools-Project/tree/main">Traceroute Project</a>
 - <a href="https://github.com/thebrownguy33/SSH-Lab/tree/main">SSH-Lab</a>
-
+- <a href="https://github.com/thebrownguy33/PenTest-Technical-Report/tree/main">PenTest-Technical-Report</a>
 - ## My Resume
 
 <a href="https://github.com/thebrownguy33/Resume/blob/main/IBRAHIM_YUSUF-RESUME.docx?raw=true">Resume</a>
